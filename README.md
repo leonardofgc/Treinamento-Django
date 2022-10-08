@@ -1,2 +1,2 @@
 # Treinamento-Django
-Projeto construindo com Django, tendo como objetivo a prática do conteúdo aprendido.
+Projeto construindo uma aplicação com Django, tendo como objetivo a prática do conteúdo aprendido.
