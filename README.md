@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#descricao">Descrição</a> •
   <a href="#como-usar">Como Usar</a> •
-  <a href="#creditos">Creditos</a>
+  <a href="#creditos">Créditos</a>
 </p>
 
 ## Descrição
