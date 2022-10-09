@@ -2,10 +2,7 @@
 <h1 align="center">
   <br>
   <a href="https://www.djangoproject.com/" target="_blank">
-<img src="http://devonsistemas.com.br/python-django-v2.png" alt="Markdownify" width="250"></a>
-  <br>
-  Django
-  <br>
+  <img src="http://devonsistemas.com.br/python-django-v2.png" alt="Markdownify" width="250"></a>
 </h1>
 
 <h4 align="center">The web framework for perfectionists with deadlines.</h4>
