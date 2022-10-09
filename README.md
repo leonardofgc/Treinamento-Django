@@ -24,7 +24,7 @@
 ## Descrição
 
 * Treinamento Django: Templates e Boas Práticas
-  - Treinamento com objetivo de entender como o Django funciona de forma prática, aplicando a construção de templates e renderização de páginas, aplicando boas práticas de programação.
+  - Treinamento com objetivo de entender como o Django funciona de forma prática, aplicando a construção de templates e renderização de páginas e boas práticas de programação.
 
 
 ## Como Usar?
